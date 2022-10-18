@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Russell Omar</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A Professional JavaScript Developer | Blockchain Engineer</h3>
 
 ### Languages  
@@ -53,12 +53,12 @@
 ![rust](https://img.shields.io/badge/Rust-363636?style=for-the-badge&logo=rust&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-<h2> &nbsp;David's Github Stats</h2>
+<h2> &nbsp;Ether0405's Github Stats</h2>
 <span align="left">
 
-![Russell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RussellOmar&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ether0405&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
 </span>
 <span align="right">
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RussellOmar&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ether0405&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
  
