@@ -53,7 +53,7 @@
 ![rust](https://img.shields.io/badge/Rust-363636?style=for-the-badge&logo=rust&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-<h2> &nbsp;Russell's Github Stats</h2>
+<h2> &nbsp;David's Github Stats</h2>
 <span align="left">
 
 ![Russell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RussellOmar&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
